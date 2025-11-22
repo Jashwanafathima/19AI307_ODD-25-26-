@@ -18,8 +18,6 @@ Output Format:
 
 Final score (int)
 
-
-
 ## AIM:
 To write a Java program using an abstract class GameScore with subclasses ArcadeGame and PuzzleGame, each implementing its own finalScore() method.
 
@@ -98,6 +96,7 @@ public class prog {
 
 ## RESULT:
 The program successfully demonstrates abstraction and inheritance by computing the final score for different game types using subclass-specific logic.
+
 
 
 
